@@ -1,0 +1,3 @@
+# batman
+
+The Batman (Batman en Latinoamérica) es una película estadounidense de superhéroes dirigida por Matt Reeves y basada en el personaje homónimo creado por Bob Kane y Bill Finger para DC Comics. El guion fue escrito por Reeves y Peter Craig, y narra los acontecimientos del vigilante Batman durante su segundo año luchando contra el crimen y la corrupción en Gotham City, además de enfrentarse al asesino serial Riddler. Es protagonizada por Robert Pattinson como el personaje titular, así como Zoë Kravitz, Paul Dano, Jeffrey Wright, John Turturro, Peter Sarsgaard, Andy Serkis y Colin Farrell.
